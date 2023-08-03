@@ -1,0 +1,64 @@
+html{
+    background-image: url(fondo.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:aliceblue;
+    text-shadow: 3px 3px 4px black;
+    
+}
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+table th {
+    color:aqua;
+  
+}
+ 
+.redes{
+    height: 60px;
+    width: 60px;
+}
+h1,h2{
+    color:rgb(16, 194, 66);
+    
+}
+
+#experiencia {
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    text-decoration: underline;
+}
+#educacion{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    text-decoration: underline;
+}
+
+#habilidades{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    text-decoration: underline;
+}
+
+
+a{
+    font-size:x-large;
+    color: rgba(36, 214, 63, 0.871);
+    text-decoration: none;
+
+}
+
+.formulario {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #38a8e85e;
+    border-radius: 4px;
+  }
+
